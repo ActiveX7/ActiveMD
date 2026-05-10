@@ -1,3 +1,11 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&duration=3000&color=00FFFF&center=true&vCenter=true&weight=700&lines=ACTIVE-MD|BOT)
+
+
+# 🎯 **Project Overview**
+
+> **ACTIVE-X** is a high-speed, feature-rich WhatsApp bot designed for performance, stability, and ease of use. Developed with passion by **ActiveTsh**.
+<p align="center">
+  <img src="https://iili.io/BgbQT5N.jpg" alt="Active-X Tech" width="300"/>
 <h1 align="center">🤖 ActiveMD WhatsApp Bot</h1>
 
 <p align="center">
