@@ -8,6 +8,19 @@
   <img src="https://iili.io/BgbQT5N.jpg" alt="Active-X Tech" width="300"/>
 <h1 align="center">🤖 ActiveMD WhatsApp Bot</h1>
 
+<a href="https://whatsapp.com/channel/0029VbCuey0CMY08nyQ5g11P">
+  <img src="https://img.shields.io/badge/TRUTH%20MD-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="150"/>
+</a>
+<br/><strong>WHATSAPP</strong>
+
+<br/>
+
+<a href="https://t.me/ActiveTsh">
+  <img src="https://img.shields.io/badge/SENSATION254-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="100"/>
+</a>
+<br/><strong>TELEGRAM</strong>
+
+<br/>
 <p align="center">
   <a href="https://github.com/ActiveX7/ActiveMD">
     <img src="https://img.shields.io/github/stars/Tennor-modz/trashcore-ultra?style=for-the-badge&color=gold&label=Stars" alt="Stars" />
