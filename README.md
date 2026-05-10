@@ -3,7 +3,7 @@
 
 # 🎯 **Project Overview**
 
-> **ACTIVE-X** is a high-speed, feature-rich WhatsApp bot designed for performance, stability, and ease of use. Developed with passion by **ActiveTsh**.
+> **ACTIVE-MD** is a high-speed, feature-rich WhatsApp bot designed for performance, stability, and ease of use. Developed with passion by **ActiveTsh**.
 <p align="center">
   <img src="https://iili.io/BgbQT5N.jpg" alt="Active-X Tech" width="300"/>
 <h1 align="center">🤖 ActiveMD WhatsApp Bot</h1>
