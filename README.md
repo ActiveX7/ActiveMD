@@ -25,7 +25,37 @@
   <a href="https://github.com/ActiveX7/ActiveMD/fork">
     <img src="https://img.shields.io/github/forks/Tennor-modz/trashcore-ultra?style=for-the-badge&color=007BFF&label=Forks" alt="Forks" />
   </a>
-  
+  ---
+
+# ☁️ Deploy Options
+
+<p align="center">
+
+<a href="https://dashboard.heroku.com/new?template=https://github.com/ActiveX7/ActiveMD">
+<img src="https://img.shields.io/badge/HEROKU-6762A6?style=for-the-badge&logo=heroku"/>
+</a>
+
+<a href="https://railway.app/new">
+<img src="https://img.shields.io/badge/RAILWAY-000000?style=for-the-badge&logo=railway"/>
+</a>
+
+<a href="https://render.com">
+<img src="https://img.shields.io/badge/RENDER-0099ff?style=for-the-badge&logo=render"/>
+</a>
+
+</p>
+
+---
+
+# 👨‍💻 Developer
+
+<p align="center">
+<img src="https://iili.io/BgbQT5N.jpg" width="120"/>
+</p>
+
+<p align="center">
+ActiveTsh the Developer
+</p>
 
 
 
