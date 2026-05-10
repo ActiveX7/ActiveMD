@@ -37,7 +37,7 @@
 
 ### 📦 About ActiveMD
 
-**Trashcore** is a feature-rich **WhatsApp bot** powered by [@trashcore/Baileys](https://github.com/ActiveX7/ActiveMD/main).  
+**Trashcore** is a feature-rich **WhatsApp bot** powered by [@active/Baileys](https://github.com/ActiveX7/ActiveMD/main).  
 It includes **anti-features**, **auto responses**, **session or pairing-based login**, and easy redeployment support.  
 Perfect for developers and enthusiasts who want a **stable, powerful, and customizable bot**.
 
@@ -61,7 +61,7 @@ Perfect for developers and enthusiasts who want a **stable, powerful, and custom
 
 | Variable | Description |
 |-----------|-------------|
-| `SESSION_ID` | Your base64 session or “trashcore~” session key |
+| `SESSION_ID` | Your base64 session or “active~” session key |
 | `OWNER_NUMBER` | Your WhatsApp number |
 | `OWNER_NAME` | Name of the bot owner |
 | `BOT_NAME` | The display name of your bot |
@@ -75,8 +75,8 @@ Perfect for developers and enthusiasts who want a **stable, powerful, and custom
 ### 🎬 Live Preview
 
 <p align="center">
-  <img src="https://github.com/Tennor-modz/trashcore-ultra/blob/main/media/menu.gif?raw=true"
-       alt="Trashcore WhatsApp Bot Demo"
+  <img src="https://github.com/ActiveX7/ActiveMD/blob/main/media/menu.gif?raw=true"
+       alt="activeMD WhatsApp Bot Demo"
        width="700"
        style="border-radius:15px; box-shadow:0 0 20px rgba(0,0,0,0.2);" />
 </p>
@@ -85,7 +85,7 @@ Perfect for developers and enthusiasts who want a **stable, powerful, and custom
 
 ### 🧠 Developer Info
 👑 **Creator:** [ActiveTsh (Giddy Tennor)](https://github.com/ActiveX7)  
-📱 **WhatsApp:** +255625316099  
+📱 **WhatsApp:** wa.me/255625316099  
 ⚙️ **Base Version:** 2.0.0  
 📧 **Email:** activetsh@gmail.com
 
@@ -94,7 +94,7 @@ Perfect for developers and enthusiasts who want a **stable, powerful, and custom
 <h3 align="center">🌟 Like this bot? Give it a star!</h3>
 
 <p align="center">
-  <a href="https://github.com/Tennor-modz/trashcore-ultra">
-    <img src="https://img.shields.io/github/stars/Tennor-modz/trashcore-ultra?style=social" alt="Star this repo" />
+  <a href="https://github.com/ActiveX7/ActiveMD">
+    <img src="https://img.shields.io/github/stars/ActiveX7/ActiveMD?style=social" alt="Star this repo" />
   </a>
 </p>
